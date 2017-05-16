@@ -1,4 +1,4 @@
-<form method="post">
+<form>
     <input type="text" name="datt">
     <input type="submit" value="Отправить">   
 </form>
